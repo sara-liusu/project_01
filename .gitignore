@@ -1,0 +1,10 @@
+#忽略 node_modules 文件夹
+##/node_modules
+
+#忽略 test.js文件
+test.js
+
+#忽略 yarn.lock文件
+yarn.lock
+
+package.json
